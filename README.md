@@ -1,9 +1,9 @@
-# ✊ Rock Paper Scissors
+# Rock Paper Scissors
 
 A classic Rock Paper Scissors game built with HTML, CSS, and JavaScript — playable in the browser with both manual and auto-play modes.
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 rock-paper-scissor/
@@ -13,7 +13,7 @@ rock-paper-scissor/
 └── images/
 ```
 
-## ✨ Features
+## Features
 
 - **Interactive Gameplay** — Click Rock, Paper, or Scissors to play against the computer
 - **Emoji UI** — Visual hand emoji buttons (✊ 🖐 ✌️) for an intuitive experience
@@ -23,7 +23,7 @@ rock-paper-scissor/
 - **Reset Score** — Clears the scoreboard to start fresh
 - **Auto Play** — Automatically plays rounds continuously for simulation
 
-## 🚀 Getting Started
+## Getting Started
 
 No installation or dependencies required — just open the file in your browser.
 
@@ -38,7 +38,7 @@ cd rock-paper-scissor
 open index.html
 ```
 
-## 🕹️ How to Play
+## How to Play
 
 1. Click one of the three buttons — ✊ Rock, 🖐 Paper, or ✌️ Scissors
 2. The computer randomly picks its move
@@ -47,7 +47,7 @@ open index.html
 5. Use **Reset Score** to clear all scores
 6. Use **Auto Play** to watch the game play itself
 
-## 🛠️ Built With
+## Built With
 
 - HTML5
 - CSS3
